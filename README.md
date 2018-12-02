@@ -1,4 +1,6 @@
 # my-first-repo
-はじめてのGitリポジトリ
+first Git repository
 
-はじめての変更
+first chage
+
+second change
